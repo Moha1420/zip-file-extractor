@@ -1,0 +1,27 @@
+/* src/styles.css */
+
+.App {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .file-upload {
+    margin-bottom: 20px;
+  }
+  
+  .extracted-files-list {
+    margin-top: 20px;
+  }
+  
+  .extracted-files-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .extracted-files-list li {
+    background-color: #f9f9f9;
+    margin: 5px 0;
+    padding: 10px;
+    border: 1px solid #ddd;
+  }
+  
